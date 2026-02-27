@@ -1,1 +1,1 @@
-const musicUrl = 'https://example.com/song.mp3'; // Properly formatted URL
+const musicUrl = 'https://www.chosic.com/download-audio/25941'; // Properly formatted URL
