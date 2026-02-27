@@ -5,7 +5,7 @@
 const CONFIG = {
     // Birthday person's name that will appear in the title
     // Example: "John", "Alex", "Michael"
-    birthdayName: "Your Name",
+    birthdayName: "Dad",
 
     // The title that appears in the browser tab
     // You can use emojis! 🎉 🎂 🎁 🎊
